@@ -11,4 +11,6 @@ def fing_highest(first_num_value, sec_num_value, third_num_value, fourth_num_val
     if first_num_value > sec_num_value:
         if first_num_value > third_num_value:
             return "first_num_value"
+        else:
+            return "third_num_value"
 
