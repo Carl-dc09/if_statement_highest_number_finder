@@ -1,4 +1,5 @@
 # Set the input numbers
+print("Input the values.")
 
 first_num_value = input("First value:")
 sec_num_value = input("Second value:")
