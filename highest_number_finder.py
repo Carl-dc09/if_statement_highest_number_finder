@@ -8,4 +8,5 @@ fourth_num_value = input("Fourth value:")
 fifth_num_value = input("Fifth value:")
 
 def fing_highest(first_num_value, sec_num_value, third_num_value, fourth_num_value, fifth_num_value):
+    if first_num_value > sec_num_value:
 
