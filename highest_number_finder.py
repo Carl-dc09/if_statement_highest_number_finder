@@ -23,6 +23,7 @@ def final_find_highest(first_highest, second_highest):
     else:
         return second_highest
 
+first_value = int(input("First value: "))
 
 
 
