@@ -15,6 +15,11 @@ def second_find_highest(fourth_num_value, fifth_num_value):
     if fourth_num_value > fifth_num_value:
         return fourth_num_value
 
+    else:
+        return fifth_num_value
+
+
+
 
 
 
