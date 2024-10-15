@@ -12,6 +12,7 @@ def first_find_highest(first_num_value, sec_num_value, third_num_value):
             return third_num_value
 
 def second_find_highest(fourth_num_value, fifth_num_value):
+    if fourth_num_value > fifth_num_value:
 
 
 
