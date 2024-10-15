@@ -26,6 +26,7 @@ def final_find_highest(first_highest, second_highest):
 first_value = int(input("First value: "))
 sec_value = int(input("Second value: "))
 third_value = int(input("Third value: "))
+fourth_value = int(input("Fourth value: "))
 
 
 
