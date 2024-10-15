@@ -34,6 +34,8 @@ res2 = second_find_highest(fourth_value, fifth_value)
 
 final_result = final_find_highest(res1, res2)
 
+print("The highest number is:", final_result)
+
 
 
 
