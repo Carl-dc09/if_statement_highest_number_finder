@@ -20,6 +20,9 @@ def second_find_highest(fourth_num_value, fifth_num_value):
 def final_find_highest(first_highest, second_highest):
     if first_highest > second_highest:
         return first_highest
+    else:
+        return second_highest
+
 
 
 
