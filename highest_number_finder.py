@@ -24,7 +24,7 @@ def final_find_highest(first_highest, second_highest):
         return second_highest
 
 first_value = int(input("First value: "))
-
+sec_value = int(input("Second value: "))
 
 
 
