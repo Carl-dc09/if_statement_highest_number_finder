@@ -29,6 +29,7 @@ third_value = int(input("Third value: "))
 fourth_value = int(input("Fourth value: "))
 fifth_value = int(input("Fifth value: "))
 
+res1 = first_find_highest(first_value, sec_value, third_value)
 
 
 
